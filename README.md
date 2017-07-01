@@ -3,3 +3,6 @@ An engineering project in which we used C++ to create encrypted messages - Colla
 
 Console Version - GUI Version Coming Soon
 
+Crypto-Final.exe contains the console version
+
+
